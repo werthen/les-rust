@@ -1,4 +1,5 @@
 pub mod moving;
+pub mod mutating;
 
 #[cfg(test)]
 mod tests {
